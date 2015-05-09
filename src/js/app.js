@@ -86,7 +86,7 @@
         fields[i] = (
           <Input
             key={i}
-            onChange={}
+            onChange={this.calculateChange}
             label={this.state.inputs[i].label}
             name={this.state.inputs[i].name}
             val={this.state.inputs[i].val} />
