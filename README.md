@@ -1,2 +1,3 @@
 # lop
 Least Objectionable Path
+:)
